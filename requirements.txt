@@ -1,4 +1,2 @@
-python-telegram-bot
-VaderSentiment
-openai
-regex
+openai==0.25.0
+pyTelegramBotAPI==4.8.0
