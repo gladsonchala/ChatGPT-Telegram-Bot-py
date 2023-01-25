@@ -3,7 +3,7 @@ from telebot import types
 import openai
 
 openai.api_key = "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"
-api = '5879800806:AAF6jDCSoWgAIlDD5QZykSaUy_5mZJSz0vs'
+api = '5806659815:AAHFwGmTD3jcnN3wuN6RBuqkK9ehs_VEmiM'
 bot = telebot.TeleBot(api)
 
 
